@@ -1,0 +1,4 @@
+I1=imread('startup_memsA_0016.png');
+I2=imread('startup_memsA_0015.png');
+imshow(I1);
+whos(I1);
